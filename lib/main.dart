@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 
 import 'webpage/pageskeleton.dart';
 
-void main() async {
+void ain() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 
